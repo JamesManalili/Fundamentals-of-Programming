@@ -1,5 +1,5 @@
 # Fundamentals of Programming
-This repository contains a collection of Java programs developed during my Fundamentals of Programming.
+This repository contains a collection of Java programs developed during my Fundamentals of Programming course.
 
 # What will you learn from this repository?
 
